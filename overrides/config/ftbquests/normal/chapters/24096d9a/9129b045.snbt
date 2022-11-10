@@ -1,0 +1,31 @@
+{
+	title: "我们需要更深入点！",
+	icon: "minecraft:netherrack",
+	x: -12.5d,
+	y: -4.5d,
+	shape: "gear",
+	dependencies: [
+		"9dfe6752",
+		"2c88b677"
+	],
+	tasks: [{
+		uid: "68d13ca8",
+		type: "dimension",
+		icon: "minecraft:netherrack",
+		dim: -1
+	}],
+	rewards: [{
+		uid: "937711ad",
+		type: "item",
+		auto: "enabled",
+		item: {
+			id: "minecraft:netherrack",
+			tag: {
+				display: {
+					Name: "垫脚石"
+				}
+			}
+		},
+		count: 64
+	}]
+}

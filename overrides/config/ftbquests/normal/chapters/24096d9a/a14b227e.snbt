@@ -1,0 +1,21 @@
+{
+	title: "炼铁师",
+	icon: "minecraft:iron_ingot",
+	x: -5.5d,
+	y: -3.0d,
+	description: "中级",
+	dependencies: [
+		"355cef1d"
+	],
+	tasks: [{
+		uid: "aea41c2d",
+		type: "fluid",
+		fluid: "iron"
+	}],
+	rewards: [{
+		uid: "7516fe79",
+		type: "item",
+		item: "minecraft:iron_block",
+		count: 2
+	}]
+}

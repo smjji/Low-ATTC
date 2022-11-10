@@ -1,0 +1,21 @@
+{
+	title: "这™又是啥？",
+	icon: "tconstruct:ingots 1 2",
+	x: -7.5d,
+	y: -4.5d,
+	description: "-3’C",
+	dependencies: [
+		"d68d76d9",
+		"9f7ac7ce"
+	],
+	tasks: [{
+		uid: "34af513e",
+		type: "fluid",
+		fluid: "manyullyn"
+	}],
+	rewards: [{
+		uid: "fd532b97",
+		type: "item",
+		item: "tconstruct:metal 1 2"
+	}]
+}

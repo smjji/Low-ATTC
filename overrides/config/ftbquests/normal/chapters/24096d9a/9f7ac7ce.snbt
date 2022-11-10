@@ -1,0 +1,28 @@
+{
+	title: "这是？",
+	icon: "tconstruct:ingots",
+	x: -8.5d,
+	y: -3.0d,
+	description: "-256‘C",
+	dependencies: [
+		"9129b045",
+		"355cef1d",
+		"09c06b22"
+	],
+	tasks: [{
+		uid: "edf6cef7",
+		type: "fluid",
+		fluid: "cobalt"
+	}],
+	rewards: [{
+		uid: "531009ab",
+		type: "item",
+		item: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "ardite",
+				Amount: 1000
+			}
+		}
+	}]
+}

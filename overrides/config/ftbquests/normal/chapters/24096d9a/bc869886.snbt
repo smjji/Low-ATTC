@@ -1,0 +1,17 @@
+{
+	x: -22.5d,
+	y: -2.5d,
+	dependencies: [
+		"ad2dce41"
+	],
+	tasks: [{
+		uid: "7129a265",
+		type: "item",
+		items: [{
+			id: "projectex:magnum_star_drei",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

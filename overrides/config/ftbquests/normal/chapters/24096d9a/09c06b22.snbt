@@ -1,0 +1,85 @@
+{
+	title: "没这个你怎么挖？",
+	x: -8.5d,
+	y: -4.5d,
+	description: "''更高级的''（划掉",
+	dependencies: [
+		"9dfe6752"
+	],
+	tasks: [{
+		uid: "b02cb6e4",
+		type: "item",
+		items: [{
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					FreeModifiers: 3,
+					Durability: 106,
+					HarvestLevel: 4,
+					Attack: 4.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					FreeModifiers: 3,
+					Durability: 106,
+					HarvestLevel: 4,
+					Attack: 4.2f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"aoe",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"obsidian",
+						"obsidian",
+						"obsidian"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "duritos",
+					color: -10478396,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f5c33d61",
+		type: "item",
+		item: "minecraft:golden_apple 1 1"
+	},
+	{
+		uid: "5c3a884d",
+		type: "item",
+		item: {
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				display: {
+					Name: "用这个！"
+				},
+				Material: "obsidian"
+			}
+		}
+	}]
+}

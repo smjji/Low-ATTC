@@ -1,0 +1,14 @@
+{
+	x: -24.0d,
+	y: -4.5d,
+	dependencies: [
+		"40f39b22"
+	],
+	tasks: [{
+		uid: "b974b278",
+		type: "item",
+		items: [{
+			item: "projectex:final_star_shard"
+		}]
+	}]
+}

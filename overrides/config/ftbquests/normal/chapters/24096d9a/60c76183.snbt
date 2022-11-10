@@ -1,0 +1,26 @@
+{
+	title: "高高在上",
+	x: -1.5d,
+	y: 3.5d,
+	shape: "square",
+	description: "个屁呀",
+	dependencies: [
+		"b5d4aa5c",
+		"d3d65efc"
+	],
+	hide: true,
+	tasks: [{
+		uid: "785d204c",
+		type: "kill",
+		icon: "twilightforest:trophy 1 5",
+		entity: "twilightforest:snow_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "750ae072",
+		type: "item",
+		title: "冷静冷静",
+		item: "minecraft:ice",
+		count: 64
+	}]
+}

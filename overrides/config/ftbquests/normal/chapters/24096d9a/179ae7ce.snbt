@@ -1,0 +1,17 @@
+{
+	x: -18.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "5df9b628",
+		type: "item",
+		items: [{
+			item: "hooked:microcrafting 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "863ddd2b",
+		type: "item",
+		item: "hooked:microcrafting 1 2",
+		count: 16
+	}]
+}

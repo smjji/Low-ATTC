@@ -1,0 +1,36 @@
+{
+	x: -2.0d,
+	y: -1.5d,
+	shape: "square",
+	description: "这都打不过？",
+	dependencies: [
+		"3f4f03c1"
+	],
+	tasks: [{
+		uid: "35606d96",
+		type: "kill",
+		title: "最简单のBoss",
+		icon: "minecraft:skull 1 5",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "af067478",
+		type: "item",
+		item: {
+			id: "everlastingabilities:ability_totem",
+			tag: {
+				"everlastingabilities:abilityStoreStack": [{
+					level: 1,
+					name: "ability.abilities.everlastingabilities.flight.name"
+				}]
+			}
+		}
+	},
+	{
+		uid: "a65c8261",
+		type: "gamestage",
+		auto: "enabled",
+		stage: "avaritia"
+	}]
+}

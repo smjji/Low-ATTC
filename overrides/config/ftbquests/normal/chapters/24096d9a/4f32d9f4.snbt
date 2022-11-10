@@ -1,0 +1,14 @@
+{
+	x: -11.5d,
+	y: 1.0d,
+	dependencies: [
+		"f94e3bcf"
+	],
+	tasks: [{
+		uid: "91ac579b",
+		type: "item",
+		items: [{
+			item: "fluidtank:blocktank3 1 3"
+		}]
+	}]
+}

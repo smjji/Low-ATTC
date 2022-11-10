@@ -1,0 +1,48 @@
+{
+	title: "真--高高在上",
+	x: -3.0d,
+	y: 2.0d,
+	shape: "square",
+	description: "搭高高好玩么？",
+	dependencies: [
+		"98a314f0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "92f127ca",
+		type: "kill",
+		icon: "twilightforest:trophy 1 3",
+		entity: "twilightforest:ur_ghast",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d8ad93c1",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:long_fire_resistance"
+			}
+		}
+	},
+	{
+		uid: "f81760b9",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:long_strength"
+			}
+		}
+	},
+	{
+		uid: "1f64f991",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:strong_strength"
+			}
+		}
+	}]
+}

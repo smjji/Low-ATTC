@@ -1,0 +1,15 @@
+{
+	title: "黑漆嘛乎的玩意儿",
+	x: -16.0d,
+	y: -4.5d,
+	dependencies: [
+		"cc2f5ee6"
+	],
+	tasks: [{
+		uid: "5e12e063",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_matter"
+		}]
+	}]
+}

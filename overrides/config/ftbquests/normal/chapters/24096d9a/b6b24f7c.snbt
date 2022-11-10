@@ -1,0 +1,43 @@
+{
+	title: "红物质工具！",
+	icon: {
+		id: "projecte:item.pe_rm_pick",
+		tag: {}
+	},
+	x: -17.0d,
+	y: -6.5d,
+	dependencies: [
+		"a935c107",
+		"f18c9513"
+	],
+	tasks: [{
+		uid: "8f8f478d",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_rm_sword",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "587aaeeb",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_rm_pick",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "57b545e4",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_rm_axe",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

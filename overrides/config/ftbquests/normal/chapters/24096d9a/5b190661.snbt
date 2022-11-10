@@ -1,0 +1,55 @@
+{
+	title: "尼玛又要杀Boos",
+	x: 1.5d,
+	y: 1.0d,
+	shape: "square",
+	description: "qwq",
+	dependencies: [
+		"877bedea"
+	],
+	hide: true,
+	tasks: [{
+		uid: "90c89942",
+		type: "kill",
+		icon: "twilightforest:trophy",
+		entity: "twilightforest:naga",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "6d7ba2c3",
+		type: "item",
+		item: "twilightforest:naga_scale",
+		count: 64
+	},
+	{
+		uid: "25e7d7ce",
+		type: "item",
+		item: {
+			id: "twilightforest:naga_chestplate",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 1s
+				}]
+			}
+		}
+	},
+	{
+		uid: "0dc2c045",
+		type: "item",
+		item: {
+			id: "twilightforest:naga_leggings",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 0s
+				}]
+			}
+		}
+	},
+	{
+		uid: "e74fd26c",
+		type: "item",
+		item: "tconstruct:materials 1 14"
+	}]
+}

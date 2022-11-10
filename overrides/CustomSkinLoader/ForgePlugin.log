@@ -1,0 +1,41 @@
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$MinecraftTransformer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING CLASS net.minecraft.client.Minecraft
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$AbstractTextureTransfomer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING CLASS net.minecraft.client.renderer.texture.AbstractTexture
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$TextureTransformer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING CLASS net.minecraft.client.renderer.texture.Texture
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$TextureManagerTransformer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING CLASS net.minecraft.client.renderer.texture.TextureManager
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$InitTransformer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(<init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinTransformer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkin(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadProfileTexturesTransformer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadProfileTextures(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinFromCacheTransformer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkinFromCache(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.PlayerTabTransformer$ScoreObjectiveTransformer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(func_175249_a(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(renderPlayerlist(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SpectatorMenuTransformer$PlayerMenuObjectTransformer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.spectator.PlayerMenuObject(<init>(Lcom/mojang/authlib/GameProfile;)V)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.TileEntitySkullTransformer$UpdateGameProfileTransformer
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.tileentity.TileEntitySkull(updateGameProfile(Lcom/mojang/authlib/GameProfile;)Lcom/mojang/authlib/GameProfile;)
+[2021-08-02 18:00:54] [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.tileentity.TileEntitySkull(func_174884_b(Lcom/mojang/authlib/GameProfile;)Lcom/mojang/authlib/GameProfile;)
+[2021-08-02 18:01:37] [main INFO] [CSL DEBUG] Successfully transformed class bib
+[2021-08-02 18:01:40] [main INFO] [CSL DEBUG] Successfully transformed class bib
+[2021-08-02 18:01:40] [main INFO] [CSL DEBUG] Successfully transformed class cdr
+[2021-08-02 18:01:50] [Client thread INFO] [CSL DEBUG] Successfully transformed method func_174884_b in class net.minecraft.tileentity.TileEntitySkull
+[2021-08-02 18:02:26] [Client thread INFO] [CSL DEBUG] Successfully transformed class cdf
+[2021-08-02 18:02:26] [Client thread INFO] [CSL DEBUG] Successfully transformed class net/minecraft/client/renderer/texture/Texture
+[2021-08-02 18:02:41] [Thread-8 INFO] [CSL DEBUG] Successfully transformed class cdr
+[2021-08-02 18:04:29] [Client thread INFO] [CSL DEBUG] Successfully transformed class cdf
+[2021-08-02 18:04:29] [Client thread INFO] [CSL DEBUG] Successfully transformed class net/minecraft/client/renderer/texture/Texture
+[2021-08-02 18:05:08] [Client thread INFO] [CSL DEBUG] Successfully transformed method <init> in class net.minecraft.client.resources.SkinManager
+[2021-08-02 18:05:08] [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152789_a in class net.minecraft.client.resources.SkinManager
+[2021-08-02 18:05:08] [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152790_a in class net.minecraft.client.resources.SkinManager
+[2021-08-02 18:05:08] [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152788_a in class net.minecraft.client.resources.SkinManager
+[2021-08-02 18:08:03] [Client thread INFO] [CSL DEBUG] Successfully transformed method func_175249_a in class net.minecraft.client.gui.GuiPlayerTabOverlay

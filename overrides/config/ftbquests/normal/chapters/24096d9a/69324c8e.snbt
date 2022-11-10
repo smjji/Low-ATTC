@@ -1,0 +1,39 @@
+{
+	title: "顶级武器！",
+	icon: {
+		id: "projecte:item.pe_rm_katar",
+		tag: {}
+	},
+	x: -15.0d,
+	y: -7.5d,
+	description: "才怪！",
+	dependencies: [
+		"b6b24f7c"
+	],
+	tasks: [{
+		uid: "b91db430",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_rm_katar",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "839c80d0",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_rm_morning_star",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1e28f83d",
+		type: "gamestage",
+		auto: "enabled",
+		stage: "projectex"
+	}]
+}

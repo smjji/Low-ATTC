@@ -1,0 +1,22 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	shape: "square",
+	description: "*2",
+	dependencies: [
+		"66ff7e31"
+	],
+	tasks: [{
+		uid: "668a3879",
+		type: "kill",
+		title: "那可不就是凋零！",
+		icon: "minecraft:skull 1 1",
+		entity: "minecraft:wither",
+		value: 2L
+	}],
+	rewards: [{
+		uid: "11f3baec",
+		type: "item",
+		item: "minecraft:beacon"
+	}]
+}

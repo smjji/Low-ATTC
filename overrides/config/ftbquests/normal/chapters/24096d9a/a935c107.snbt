@@ -1,0 +1,15 @@
+{
+	title: "这也不是太阳",
+	x: -16.0d,
+	y: -6.5d,
+	dependencies: [
+		"ab328522"
+	],
+	tasks: [{
+		uid: "16170b33",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_matter 1 1"
+		}]
+	}]
+}

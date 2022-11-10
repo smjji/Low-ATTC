@@ -1,0 +1,28 @@
+{
+	title: "啊这...这是什么...烫死了！",
+	icon: "tconstruct:ingots 1 1",
+	x: -7.5d,
+	y: -3.0d,
+	description: "1800’C",
+	dependencies: [
+		"9129b045",
+		"355cef1d",
+		"09c06b22"
+	],
+	tasks: [{
+		uid: "de439092",
+		type: "fluid",
+		fluid: "ardite"
+	}],
+	rewards: [{
+		uid: "a94a5d70",
+		type: "item",
+		item: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "cobalt",
+				Amount: 1000
+			}
+		}
+	}]
+}

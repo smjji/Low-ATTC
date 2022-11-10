@@ -1,0 +1,24 @@
+{
+	title: "未完成の暮色森林",
+	icon: "tiths:block_cloud",
+	x: -4.5d,
+	y: 3.5d,
+	dependencies: [
+		"efd68de5"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4d0b80d4",
+		type: "kill",
+		icon: "tiths:block_cloud",
+		entity: "twilightforest:giant_miner",
+		value: 1L
+	},
+	{
+		uid: "e303a27e",
+		type: "kill",
+		icon: "tiths:block_cloud",
+		entity: "twilightforest:armored_giant",
+		value: 1L
+	}]
+}

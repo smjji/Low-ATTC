@@ -1,0 +1,19 @@
+{
+	title: "这尼马能吃？",
+	icon: "tconstruct:ingots 1 4",
+	x: -4.5d,
+	y: -1.5d,
+	description: "emmmm...味道还行",
+	dependencies: [
+		"dd7c4284",
+		"a14b227e"
+	],
+	tasks: [{
+		uid: "8800566f",
+		type: "item",
+		items: [{
+			item: "tconstruct:ingots 1 4"
+		}],
+		count: 9L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -8.0d,
+	y: 3.5d,
+	dependencies: [
+		"fa0ce83c",
+		"a4ca22e7",
+		"7b096e7a"
+	],
+	tasks: [{
+		uid: "9265ca5d",
+		type: "item",
+		items: [{
+			item: "fluidtank:blocktank7"
+		}]
+	}],
+	rewards: [{
+		uid: "804fa21c",
+		type: "item",
+		item: "minecraft:nether_star",
+		count: 8
+	}]
+}

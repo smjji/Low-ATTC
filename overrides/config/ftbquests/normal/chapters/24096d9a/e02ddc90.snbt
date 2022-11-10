@@ -1,0 +1,15 @@
+{
+	title: "不要了，太冷门了",
+	x: -9.5d,
+	y: -3.0d,
+	dependencies: [
+		"c677455b"
+	],
+	tasks: [{
+		uid: "e3286e73",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_furnace_controller"
+		}]
+	}]
+}

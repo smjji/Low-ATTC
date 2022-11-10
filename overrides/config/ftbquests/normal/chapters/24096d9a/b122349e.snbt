@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -7.0d,
+	dependencies: [
+		"3f4f03c1",
+		"32391e8f"
+	],
+	tasks: [{
+		uid: "f4af2caf",
+		type: "item",
+		items: [{
+			item: "stygian:endgrass"
+		}]
+	}]
+}

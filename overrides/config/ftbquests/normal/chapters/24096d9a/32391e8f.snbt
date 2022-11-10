@@ -1,0 +1,57 @@
+{
+	title: "全新的下界！",
+	icon: "minecraft:beacon",
+	x: -12.5d,
+	y: -7.0d,
+	description: "什么？还有1.16？",
+	dependencies: [
+		"9129b045"
+	],
+	tasks: [{
+		uid: "abfb2629",
+		type: "biome",
+		title: "访问生物群系：Better_nether",
+		icon: "minecraft:beacon",
+		biome: "minecraft:hell"
+	}],
+	rewards: [{
+		uid: "98686d19",
+		type: "item",
+		item: "futureminecraf:netheritehelmet"
+	},
+	{
+		uid: "b37b8a6d",
+		type: "item",
+		item: "futureminecraf:netheritebody"
+	},
+	{
+		uid: "adf9d008",
+		type: "item",
+		item: "futureminecraf:netheritelegs"
+	},
+	{
+		uid: "a27970dc",
+		type: "item",
+		item: "futureminecraf:netheriteboots"
+	},
+	{
+		uid: "69ae99ac",
+		type: "item",
+		item: "futureminecraf:netheritesword"
+	},
+	{
+		uid: "1b2dba93",
+		type: "item",
+		item: "futureminecraf:netheritepickaxe"
+	},
+	{
+		uid: "ccb5a17d",
+		type: "item",
+		item: "futureminecraf:netheriteaxe"
+	},
+	{
+		uid: "2efa2b20",
+		type: "item",
+		item: "futureminecraf:trident"
+	}]
+}

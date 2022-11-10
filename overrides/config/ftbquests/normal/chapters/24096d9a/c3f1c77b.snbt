@@ -1,0 +1,17 @@
+{
+	x: -21.5d,
+	y: -2.5d,
+	dependencies: [
+		"bc869886"
+	],
+	tasks: [{
+		uid: "99fe3ddd",
+		type: "item",
+		items: [{
+			id: "projectex:magnum_star_vier",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

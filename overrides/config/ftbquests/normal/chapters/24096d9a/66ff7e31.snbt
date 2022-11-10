@@ -1,0 +1,27 @@
+{
+	title: "另一个Boos",
+	x: -2.0d,
+	y: -0.5d,
+	description: "就是凋零",
+	dependencies: [
+		"f991436c"
+	],
+	tasks: [{
+		uid: "dda41dd9",
+		type: "checkmark",
+		title: "yes",
+		icon: "minecraft:skull 1 1"
+	}],
+	rewards: [{
+		uid: "8f1703e2",
+		type: "item",
+		item: "minecraft:soul_sand",
+		count: 8
+	},
+	{
+		uid: "4ca41994",
+		type: "item",
+		item: "minecraft:skull 1 1",
+		count: 6
+	}]
+}

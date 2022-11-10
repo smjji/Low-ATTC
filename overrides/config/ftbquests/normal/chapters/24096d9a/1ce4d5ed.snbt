@@ -1,0 +1,28 @@
+{
+	title: "引导",
+	x: -7.5d,
+	y: -6.0d,
+	dependencies: [
+		"a14b227e"
+	],
+	tasks: [{
+		uid: "f9500b9b",
+		type: "item",
+		items: [{
+			item: "minecraft:bucket"
+		}]
+	}],
+	rewards: [{
+		uid: "452bae47",
+		type: "item",
+		item: {
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				display: {
+					Name: "你必须用它！"
+				},
+				Material: "endstone"
+			}
+		}
+	}]
+}

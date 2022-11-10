@@ -1,0 +1,17 @@
+{
+	title: "缓慢的  修补",
+	x: -14.0d,
+	y: -0.5d,
+	dependencies: [
+		"cc2f5ee6"
+	],
+	tasks: [{
+		uid: "485c2f87",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_repair_talisman"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

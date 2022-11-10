@@ -1,0 +1,25 @@
+{
+	x: -10.5d,
+	y: 3.5d,
+	dependencies: [
+		"007be38e"
+	],
+	tasks: [{
+		uid: "6591de4b",
+		type: "item",
+		items: [{
+			item: "fluidtank:blocktank2 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "8fc9dc6f",
+		type: "item",
+		item: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "copper",
+				Amount: 1000
+			}
+		}
+	}]
+}

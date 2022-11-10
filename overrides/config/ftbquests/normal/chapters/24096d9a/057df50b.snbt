@@ -1,0 +1,21 @@
+{
+	x: -18.5d,
+	y: 0.5d,
+	dependencies: [
+		"1152c2db"
+	],
+	tasks: [{
+		uid: "58f81cbe",
+		type: "item",
+		items: [{
+			item: "hooked:hook 1 3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "81c025db",
+		type: "item",
+		item: "minecraft:redstone_block",
+		count: 64
+	}]
+}

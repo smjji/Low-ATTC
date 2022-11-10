@@ -1,0 +1,17 @@
+{
+  "name": "ATTC addons",
+  "tab_item": {
+    "item": "tconstruct:smeltery_controller"
+  },
+  "items": [
+    {
+      "item": "additions:attc-whatsup"
+    },
+    {
+      "item": "additions:attc-doge"
+    },
+    {
+      "item": "additions:attc-attc_twilightforest"
+    }
+  ]
+}

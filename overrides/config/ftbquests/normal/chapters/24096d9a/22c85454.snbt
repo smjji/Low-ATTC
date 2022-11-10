@@ -1,0 +1,17 @@
+{
+	title: "随身携带",
+	x: -15.0d,
+	y: -3.5d,
+	dependencies: [
+		"521d50b0"
+	],
+	tasks: [{
+		uid: "e6db3c54",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_transmutation_tablet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

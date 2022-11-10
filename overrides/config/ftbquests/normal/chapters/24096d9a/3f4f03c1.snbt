@@ -1,0 +1,31 @@
+{
+	title: "结束了？",
+	icon: "minecraft:end_stone",
+	x: -2.0d,
+	y: -3.0d,
+	shape: "gear",
+	description: "不，还没呢",
+	dependencies: [
+		"656a4f97"
+	],
+	tasks: [{
+		uid: "8ea48e9e",
+		type: "dimension",
+		icon: "minecraft:end_stone",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "9a220d8c",
+		type: "item",
+		auto: "enabled",
+		item: {
+			id: "minecraft:end_stone",
+			tag: {
+				display: {
+					Name: "垫脚石的用意"
+				}
+			}
+		},
+		count: 64
+	}]
+}

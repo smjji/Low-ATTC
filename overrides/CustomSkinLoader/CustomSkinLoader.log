@@ -1,0 +1,58 @@
+[2021-08-01 16:01:30] [Client thread INFO] CustomSkinLoader 14.12
+[2021-08-01 16:01:30] [Client thread INFO] DataDir: C:\Users\Administrator\Desktop\PCL\.minecraft\versions\1.12.2-Forge [ATTC 3(FTBQ)]All The Tinker's Construct 3\CustomSkinLoader
+[2021-08-01 16:01:30] [Client thread INFO] Minecraft: 1.12.2(1.12.2-Forge [ATTC 3(FTBQ)]All The Tinker's Construct 3 1.12.2-Forge [ATTC 3(FTBQ)]All The Tinker's Construct 3)
+[2021-08-01 16:01:30] [Client thread INFO] Config File: C:\Users\Administrator\Desktop\PCL\.minecraft\versions\1.12.2-Forge [ATTC 3(FTBQ)]All The Tinker's Construct 3\CustomSkinLoader\CustomSkinLoader.json
+[2021-08-01 16:01:30] [Client thread INFO] Try to load config.
+[2021-08-01 16:01:30] [Client thread INFO] Successfully load config.
+[2021-08-01 16:01:30] [Client thread INFO] version : 14.12
+[2021-08-01 16:01:30] [Client thread INFO] enableDynamicSkull : true
+[2021-08-01 16:01:30] [Client thread INFO] enableTransparentSkin : true
+[2021-08-01 16:01:30] [Client thread INFO] ignoreHttpsCertificate : false
+[2021-08-01 16:01:30] [Client thread INFO] forceLoadAllTextures : false
+[2021-08-01 16:01:30] [Client thread INFO] enableCape : true
+[2021-08-01 16:01:30] [Client thread INFO] threadPoolSize : 1
+[2021-08-01 16:01:30] [Client thread INFO] cacheExpiry : 30
+[2021-08-01 16:01:30] [Client thread INFO] enableUpdateSkull : false
+[2021-08-01 16:01:30] [Client thread INFO] enableLocalProfileCache : false
+[2021-08-01 16:01:30] [Client thread INFO] enableCacheAutoClean : false
+[2021-08-01 16:01:30] [Client thread INFO] loadList : 7
+[2021-08-01 16:10:26] [smjji INFO] Loading smjji's profile.
+[2021-08-01 16:10:26] [smjji INFO] 1/7 Try to load profile from 'Mojang'.
+[2021-08-01 16:10:27] [smjji DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2021-08-01 16:10:27] [smjji INFO] Payload: ["smjji"]
+[2021-08-01 16:10:27] [smjji DEBUG] Failed to request (Exception: java.net.UnknownHostException: api.mojang.com)
+[2021-08-01 16:10:27] [smjji INFO] Profile not found.(smjji's profile not found.)
+[2021-08-01 16:10:27] [smjji INFO] 2/7 Try to load profile from 'LittleSkin'.
+[2021-08-01 16:10:27] [smjji DEBUG] Try to request 'https://littlesk.in/csl/smjji.json'.
+[2021-08-01 16:10:27] [smjji DEBUG] Failed to request (Exception: java.net.UnknownHostException: littlesk.in)
+[2021-08-01 16:10:27] [smjji DEBUG] Cache file found (Length: 3 , Path: 'C:\Users\Administrator\Desktop\PCL\.minecraft\versions\1.12.2-Forge [ATTC 3(FTBQ)]All The Tinker's Construct 3\CustomSkinLoader\caches\50970bee6b7555613fe2621b07fcca72ec5342cb' , Expire: 0')
+[2021-08-01 16:10:27] [smjji INFO] Try to load from cache 'C:\Users\Administrator\Desktop\PCL\.minecraft\versions\1.12.2-Forge [ATTC 3(FTBQ)]All The Tinker's Construct 3\CustomSkinLoader\caches\50970bee6b7555613fe2621b07fcca72ec5342cb'.
+[2021-08-01 16:10:27] [smjji DEBUG] Successfully load from cache
+[2021-08-01 16:10:27] [smjji DEBUG] Content: {}
+
+[2021-08-01 16:10:27] [smjji INFO] Both skin and cape not found.
+[2021-08-01 16:10:27] [smjji INFO] 3/7 Try to load profile from 'BlessingSkin'.
+[2021-08-01 16:10:27] [smjji DEBUG] Try to request 'http://skin.prinzeugen.net/smjji.json'.
+[2021-08-01 16:10:27] [smjji DEBUG] Failed to request (Exception: java.net.UnknownHostException: skin.prinzeugen.net)
+[2021-08-01 16:10:27] [smjji INFO] Profile not found.
+[2021-08-01 16:10:27] [smjji INFO] 4/7 Try to load profile from 'ElyBy'.
+[2021-08-01 16:10:27] [smjji DEBUG] Try to request 'http://skinsystem.ely.by/textures/smjji?version=2&minecraft_version=1.12.2'.
+[2021-08-01 16:10:27] [smjji DEBUG] Failed to request (Exception: java.net.UnknownHostException: skinsystem.ely.by)
+[2021-08-01 16:10:27] [smjji DEBUG] Cache file found (Length: 0 , Path: 'C:\Users\Administrator\Desktop\PCL\.minecraft\versions\1.12.2-Forge [ATTC 3(FTBQ)]All The Tinker's Construct 3\CustomSkinLoader\caches\959180ae820e1fd844c0084e83e43f862e4fa6fb' , Expire: 0')
+[2021-08-01 16:10:27] [smjji INFO] Try to load from cache 'C:\Users\Administrator\Desktop\PCL\.minecraft\versions\1.12.2-Forge [ATTC 3(FTBQ)]All The Tinker's Construct 3\CustomSkinLoader\caches\959180ae820e1fd844c0084e83e43f862e4fa6fb'.
+[2021-08-01 16:10:27] [smjji DEBUG] Successfully load from cache
+[2021-08-01 16:10:27] [smjji DEBUG] Content: 
+[2021-08-01 16:10:27] [smjji INFO] Profile not found.
+[2021-08-01 16:10:27] [smjji INFO] 5/7 Try to load profile from 'SkinMe'.
+[2021-08-01 16:10:27] [smjji DEBUG] Try to request 'http://www.skinme.cc/uniskin/smjji.json'.
+[2021-08-01 16:10:31] [smjji DEBUG] Failed to request (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2021-08-01 16:10:31] [smjji DEBUG] Cache file found (Length: 37 , Path: 'C:\Users\Administrator\Desktop\PCL\.minecraft\versions\1.12.2-Forge [ATTC 3(FTBQ)]All The Tinker's Construct 3\CustomSkinLoader\caches\215203df0fee94e7f09826747b2ba5fda7f060ca' , Expire: 0')
+[2021-08-01 16:10:31] [smjji INFO] Try to load from cache 'C:\Users\Administrator\Desktop\PCL\.minecraft\versions\1.12.2-Forge [ATTC 3(FTBQ)]All The Tinker's Construct 3\CustomSkinLoader\caches\215203df0fee94e7f09826747b2ba5fda7f060ca'.
+[2021-08-01 16:10:31] [smjji DEBUG] Successfully load from cache
+[2021-08-01 16:10:31] [smjji DEBUG] Content: {"errno":404,"msg":"User not found."}
+[2021-08-01 16:10:31] [smjji INFO] Error 404: User not found.
+[2021-08-01 16:10:31] [smjji INFO] 6/7 Try to load profile from 'LocalSkin'.
+[2021-08-01 16:10:31] [smjji INFO] smjji's profile loaded.
+[2021-08-01 16:10:31] [smjji INFO] (SkinUrl: (LOCAL_LEGACY)531f797375c83e975ae0e3916c56077a85fd8e55,LocalSkin/skins/smjji.png , Model: auto , CapeUrl: null , ElytraUrl: (LOCAL_LEGACY)85fe3bc4b29886af66cac46509044432531fd819,LocalSkin/elytras/smjji.png , Expiry: 1627805466)
+[2021-08-01 16:10:35] [Client thread DEBUG] Loading type:SKIN
+[2021-08-01 16:10:36] [Client thread DEBUG] Loading type:ELYTRA

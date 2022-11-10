@@ -1,0 +1,20 @@
+{
+	x: -15.5d,
+	y: 2.0d,
+	dependencies: [
+		"78d24f36"
+	],
+	tasks: [{
+		uid: "14f2246f",
+		type: "item",
+		items: [{
+			item: "hooked:microcrafting 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "86595842",
+		type: "item",
+		item: "hooked:microcrafting 1 1",
+		count: 16
+	}]
+}

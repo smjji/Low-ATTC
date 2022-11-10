@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: 0.5d,
+	dependencies: [
+		"ec1ab564"
+	],
+	tasks: [{
+		uid: "c5a50ee3",
+		type: "kill",
+		icon: "atum:idol_of_labor",
+		entity: "atum:pharaoh",
+		value: 1L
+	}]
+}

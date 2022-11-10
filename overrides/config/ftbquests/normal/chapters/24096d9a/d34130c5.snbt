@@ -1,0 +1,270 @@
+{
+	title: "啥？啥是铸模？",
+	icon: "tconstruct:cast",
+	x: -5.5d,
+	y: -1.5d,
+	description: "你难道不会玩匠魂？",
+	dependencies: [
+		"355cef1d"
+	],
+	tasks: [{
+		uid: "e05c4c26",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:broad_axe_head"
+			}
+		}]
+	},
+	{
+		uid: "fffd3857",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:tool_rod"
+			}
+		}]
+	},
+	{
+		uid: "4cc16faf",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:pick_head"
+			}
+		}]
+	},
+	{
+		uid: "54c49220",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:shovel_head"
+			}
+		}]
+	},
+	{
+		uid: "c55651db",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:tough_binding"
+			}
+		}]
+	},
+	{
+		uid: "bcce88fb",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:sword_blade"
+			}
+		}]
+	},
+	{
+		uid: "a0ac2ee4",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:large_sword_blade"
+			}
+		}]
+	},
+	{
+		uid: "c7aea0c6",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:large_plate"
+			}
+		}]
+	},
+	{
+		uid: "dda90f5b",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:sign_head"
+			}
+		}]
+	},
+	{
+		uid: "1db30dc6",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:axe_head"
+			}
+		}]
+	},
+	{
+		uid: "8179f219",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:binding"
+			}
+		}]
+	},
+	{
+		uid: "65f4ee70",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:tough_tool_rod"
+			}
+		}]
+	},
+	{
+		uid: "1de1cde1",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:knife_blade"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "bbb855ed",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:broad_axe_head"
+			}
+		}
+	},
+	{
+		uid: "27859302",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:tool_rod"
+			}
+		}
+	},
+	{
+		uid: "1de41690",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:pick_head"
+			}
+		}
+	},
+	{
+		uid: "92e8bf62",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:shovel_head"
+			}
+		}
+	},
+	{
+		uid: "697b8346",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:tough_binding"
+			}
+		}
+	},
+	{
+		uid: "fe460576",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:sword_blade"
+			}
+		}
+	},
+	{
+		uid: "d50feed3",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:large_sword_blade"
+			}
+		}
+	},
+	{
+		uid: "f6ad156b",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:large_plate"
+			}
+		}
+	},
+	{
+		uid: "3d8f8404",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:sign_head"
+			}
+		}
+	},
+	{
+		uid: "5fa15236",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:knife_blade"
+			}
+		}
+	},
+	{
+		uid: "3b8ae2a5",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:axe_head"
+			}
+		}
+	},
+	{
+		uid: "5d7bbe60",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:binding"
+			}
+		}
+	},
+	{
+		uid: "0806b091",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:tough_tool_rod"
+			}
+		}
+	}]
+}

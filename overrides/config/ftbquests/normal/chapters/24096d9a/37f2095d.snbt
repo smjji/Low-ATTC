@@ -1,0 +1,22 @@
+{
+	x: -17.0d,
+	y: -4.5d,
+	dependencies: [
+		"ab328522"
+	],
+	tasks: [{
+		uid: "c5b795ab",
+		type: "item",
+		items: [{
+			item: "projecte:dm_pedestal"
+		}]
+	}],
+	rewards: [{
+		uid: "60e035d1",
+		type: "item",
+		item: {
+			id: "projecte:item.pe_time_watch",
+			tag: {}
+		}
+	}]
+}

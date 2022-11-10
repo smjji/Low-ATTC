@@ -1,0 +1,17 @@
+{
+	title: "暮色没了！yaer！",
+	x: -6.0d,
+	y: 3.5d,
+	description: "Yes!",
+	dependencies: [
+		"c0262e2c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "91dd23ab",
+		type: "kill",
+		icon: "twilightforest:miniature_structure",
+		entity: "twilightforest:kobold",
+		value: 1L
+	}]
+}

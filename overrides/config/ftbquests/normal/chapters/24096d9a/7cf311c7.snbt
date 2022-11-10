@@ -1,0 +1,24 @@
+{
+	title: "别挖木头了！",
+	x: -11.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "32f7a98e",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}]
+	}],
+	rewards: [{
+		uid: "09d5418e",
+		type: "item",
+		item: "minecraft:log",
+		count: 64
+	},
+	{
+		uid: "9a05c660",
+		type: "item",
+		item: "minecraft:log",
+		count: 64
+	}]
+}

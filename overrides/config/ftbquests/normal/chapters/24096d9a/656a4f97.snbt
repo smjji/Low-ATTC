@@ -1,0 +1,28 @@
+{
+	title: "咸鱼",
+	icon: "minecraft:end_portal_frame",
+	x: -2.0d,
+	y: -4.5d,
+	description: "不要找啦!!!",
+	dependencies: [
+		"77ce2a02",
+		"0ad7d759"
+	],
+	tasks: [{
+		uid: "a49a0802",
+		type: "checkmark",
+		icon: "minecraft:end_portal_frame"
+	}],
+	rewards: [{
+		uid: "cd6272d3",
+		type: "item",
+		item: "minecraft:ender_eye",
+		count: 12
+	},
+	{
+		uid: "06c36308",
+		type: "item",
+		item: "minecraft:end_portal_frame",
+		count: 12
+	}]
+}

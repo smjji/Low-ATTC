@@ -1,0 +1,15 @@
+{
+	title: "这是？",
+	icon: "atum:gebs_grounding",
+	x: -8.0d,
+	y: 0.5d,
+	description: "阿图姆！（我的神镐！",
+	dependencies: [
+		"c048dd19"
+	],
+	tasks: [{
+		uid: "93a70eee",
+		type: "dimension",
+		dim: 17
+	}]
+}

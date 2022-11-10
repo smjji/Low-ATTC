@@ -1,0 +1,15 @@
+{
+	title: "等价交换",
+	x: -15.0d,
+	y: -2.5d,
+	dependencies: [
+		"cc2f5ee6"
+	],
+	tasks: [{
+		uid: "ac65d938",
+		type: "item",
+		items: [{
+			item: "projecte:transmutation_table"
+		}]
+	}]
+}

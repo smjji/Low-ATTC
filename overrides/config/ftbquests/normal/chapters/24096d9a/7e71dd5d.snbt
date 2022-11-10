@@ -1,0 +1,22 @@
+{
+	title: "更好储罐！",
+	x: -10.5d,
+	y: 1.5d,
+	dependencies: [
+		"7cf311c7",
+		"355cef1d"
+	],
+	tasks: [{
+		uid: "fc7cb1f7",
+		type: "item",
+		items: [{
+			item: "fluidtank:blocktank1"
+		}]
+	}],
+	rewards: [{
+		uid: "192b1d58",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 32
+	}]
+}

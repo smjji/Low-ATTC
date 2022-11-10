@@ -1,0 +1,80 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:diamond|0",
+      "emc": 81920000
+    },
+    {
+      "item": "minecraft:gold_ingot|0",
+      "emc": 20480000
+    },
+    {
+      "item": "minecraft:iron_ingot|0",
+      "emc": 2560000
+    },
+    {
+      "item": "minecraft:coal|0",
+      "emc": 1280000
+    },
+    {
+      "item": "avaritia:infinity_sword|0",
+      "emc": 1
+    },
+    {
+      "item": "avaritia:resource|2",
+      "emc": 38444444444
+    },
+    {
+      "item": "avaritia:infinity_bow|0",
+      "emc": 1
+    },
+    {
+      "item": "avaritia:infinity_pickaxe|0",
+      "emc": 1
+    },
+    {
+      "item": "avaritia:infinity_helmet|0",
+      "emc": 1
+    },
+    {
+      "item": "avaritia:infinity_chestplate|0",
+      "emc": 1
+    },
+    {
+      "item": "avaritia:infinity_pants|0",
+      "emc": 1
+    },
+    {
+      "item": "avaritia:infinity_boots|0",
+      "emc": 1
+    },
+    {
+      "item": "avaritia:resource|5",
+      "emc": 10000000000000000
+    },
+    {
+      "item": "avaritia:resource|6",
+      "emc": 939712160000000000
+    },
+    {
+      "item": "twilightforest:ironwood_ingot|0",
+      "emc": 648
+    },
+    {
+      "item": "twilightforest:fiery_ingot|0",
+      "emc": 648
+    },
+    {
+      "item": "twilightforest:knightmetal_ingot|0",
+      "emc": 648
+    },
+    {
+      "item": "additions:attc-whatsup|0",
+      "emc": 1145145967963743
+    },
+    {
+      "item": "additions:attc-doge|0",
+      "emc": 31415926535
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	title: "''先进''存储",
+	x: -14.0d,
+	y: -2.5d,
+	dependencies: [
+		"cc2f5ee6"
+	],
+	tasks: [{
+		uid: "1f12d6b4",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_alchemical_bag"
+		}],
+		ignore_nbt: 1b
+	}]
+}

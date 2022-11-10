@@ -1,0 +1,31 @@
+{
+	title: "最后！",
+	x: -3.0d,
+	y: 3.5d,
+	shape: "square",
+	description: "最后了吗？",
+	dependencies: [
+		"3e45eefe"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3b8643cc",
+		type: "kill",
+		icon: "twilightforest:trophy 1 2",
+		entity: "twilightforest:hydra",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "7980e37a",
+		type: "item",
+		title: "想屁吃",
+		auto: "enabled",
+		item: "minecraft:diamond"
+	},
+	{
+		uid: "317b81e1",
+		type: "gamestage",
+		auto: "enabled",
+		stage: "projecte"
+	}]
+}

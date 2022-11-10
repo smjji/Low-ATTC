@@ -1,0 +1,64 @@
+{
+	title: "击败巫妖の利器",
+	icon: {
+		id: "minecraft:splash_potion",
+		tag: {
+			Potion: "minecraft:strong_healing"
+		}
+	},
+	x: 2.5d,
+	y: 1.0d,
+	dependencies: [
+		"5b190661"
+	],
+	hide: true,
+	tasks: [{
+		uid: "64bbbf10",
+		type: "checkmark",
+		title: "yes"
+	}],
+	rewards: [{
+		uid: "d72bc6ae",
+		type: "item",
+		auto: "enabled",
+		item: {
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:strong_healing"
+			}
+		}
+	},
+	{
+		uid: "2d306ec0",
+		type: "item",
+		auto: "enabled",
+		item: {
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:strong_healing"
+			}
+		}
+	},
+	{
+		uid: "fb5d0850",
+		type: "item",
+		auto: "enabled",
+		item: {
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:strong_healing"
+			}
+		}
+	},
+	{
+		uid: "2fc4d291",
+		type: "item",
+		auto: "enabled",
+		item: {
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:strong_healing"
+			}
+		}
+	}]
+}

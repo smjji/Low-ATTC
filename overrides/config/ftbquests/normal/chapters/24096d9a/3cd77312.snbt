@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -4.5d,
+	dependencies: [
+		"b122349e",
+		"3f4f03c1"
+	],
+	tasks: [{
+		uid: "247ab03c",
+		type: "item",
+		items: [{
+			item: "stygian:endobsidian"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: -11.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "0dd2235b",
+		type: "item",
+		items: [{
+			item: "atum:scarab"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b8235ef0",
+		type: "item",
+		item: "atum:idol_of_labor"
+	}]
+}

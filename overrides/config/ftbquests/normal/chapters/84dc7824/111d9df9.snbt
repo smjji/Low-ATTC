@@ -1,0 +1,14 @@
+{
+	title: "沙漠中的绿洲",
+	icon: "atum:fertile_soil",
+	x: -5.5d,
+	y: 1.5d,
+	dependencies: [
+		"7524470f"
+	],
+	tasks: [{
+		uid: "a4c8c61c",
+		type: "biome",
+		biome: "atum:oasis"
+	}]
+}

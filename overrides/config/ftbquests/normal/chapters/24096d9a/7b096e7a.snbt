@@ -1,0 +1,19 @@
+{
+	x: -9.0d,
+	y: 3.5d,
+	dependencies: [
+		"546f9b56"
+	],
+	tasks: [{
+		uid: "2da0ece3",
+		type: "item",
+		items: [{
+			item: "fluidtank:blocktank6"
+		}]
+	}],
+	rewards: [{
+		uid: "4df9ef45",
+		type: "item",
+		item: "chisel:emerald 1 5"
+	}]
+}

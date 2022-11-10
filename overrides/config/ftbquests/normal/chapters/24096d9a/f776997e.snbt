@@ -1,0 +1,23 @@
+{
+	title: "没办法",
+	x: 1.5d,
+	y: 2.0d,
+	shape: "square",
+	description: "太难打了！",
+	dependencies: [
+		"5b190661"
+	],
+	hide: true,
+	tasks: [{
+		uid: "84d504c8",
+		type: "kill",
+		icon: "twilightforest:trophy 1 1",
+		entity: "twilightforest:lich",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "157b4ad3",
+		type: "item",
+		item: "avaritia:skullfire_sword"
+	}]
+}

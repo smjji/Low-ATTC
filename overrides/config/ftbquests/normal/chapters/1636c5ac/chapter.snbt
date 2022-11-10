@@ -1,0 +1,7 @@
+{
+	title: "咸鱼火把",
+	icon: "torcherino:blockdoublecompressedtorcherino",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

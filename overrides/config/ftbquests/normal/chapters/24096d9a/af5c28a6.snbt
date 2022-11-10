@@ -1,0 +1,17 @@
+{
+	x: -25.0d,
+	y: -2.5d,
+	dependencies: [
+		"a198edad"
+	],
+	tasks: [{
+		uid: "f83ebc68",
+		type: "item",
+		items: [{
+			id: "projectex:colossal_star_drei",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

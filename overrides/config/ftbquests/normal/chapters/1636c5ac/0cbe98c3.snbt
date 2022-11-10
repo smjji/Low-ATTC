@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "b7f32b9e",
+		type: "item",
+		items: [{
+			item: "torcherino:blocktorcherino"
+		}]
+	}],
+	rewards: [{
+		uid: "ae89b46d",
+		type: "item",
+		item: "torcherino:blocktorcherino"
+	}]
+}

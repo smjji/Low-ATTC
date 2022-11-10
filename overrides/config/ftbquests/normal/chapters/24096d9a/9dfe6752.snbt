@@ -1,0 +1,75 @@
+{
+	title: "先造地狱门呀啊喂！",
+	x: -9.5d,
+	y: -4.5d,
+	description: "那肯定的~",
+	dependencies: [
+		"1ce4d5ed",
+		"2c88b677"
+	],
+	tasks: [{
+		uid: "e8a1140c",
+		type: "item",
+		icon: "minecraft:obsidian",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "674e9c9a",
+		type: "item",
+		item: {
+			id: "tconstruct:pickaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					FreeModifiers: 3,
+					Durability: 106,
+					HarvestLevel: 4,
+					Attack: 4.2f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.07f,
+					FreeModifiers: 3,
+					Durability: 106,
+					HarvestLevel: 4,
+					Attack: 4.2f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"harvest",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"obsidian",
+						"obsidian",
+						"obsidian"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "duritos",
+					color: -10478396,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"duritos",
+					"toolleveling"
+				]
+			}
+		}
+	}]
+}

@@ -1,0 +1,73 @@
+{
+	title: "就你？",
+	x: 0.0d,
+	y: 2.0d,
+	description: "切",
+	dependencies: [
+		"d3d65efc"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d877695b",
+		type: "kill",
+		icon: "twilightforest:alpha_fur",
+		entity: "twilightforest:yeti_alpha",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4d5cc0d1",
+		type: "item",
+		item: {
+			id: "twilightforest:yeti_helmet",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 0s
+				}]
+			}
+		}
+	},
+	{
+		uid: "0e8cfe4f",
+		type: "item",
+		item: {
+			id: "twilightforest:yeti_chestplate",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 0s
+				}]
+			}
+		}
+	},
+	{
+		uid: "1856caed",
+		type: "item",
+		item: {
+			id: "twilightforest:yeti_leggings",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 0s
+				}]
+			}
+		}
+	},
+	{
+		uid: "0d5c11de",
+		type: "item",
+		item: {
+			id: "twilightforest:yeti_boots",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 0s
+				},
+				{
+					lvl: 4s,
+					id: 2s
+				}]
+			}
+		}
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "怎么就幻影了",
+	x: -1.5d,
+	y: 2.0d,
+	shape: "square",
+	description: "怎么就骑士了",
+	dependencies: [
+		"60c76183"
+	],
+	hide: true,
+	tasks: [{
+		uid: "37e5a9a5",
+		type: "kill",
+		icon: "twilightforest:trophy 1 4",
+		entity: "twilightforest:knight_phantom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "c1035046",
+		type: "item",
+		item: {
+			id: "minecraft:netherrack",
+			tag: {
+				display: {
+					Name: "垫脚石的用意..."
+				}
+			}
+		},
+		count: 64
+	}]
+}

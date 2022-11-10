@@ -1,0 +1,18 @@
+{
+	title: "随身携带Plus",
+	x: -15.0d,
+	y: -4.5d,
+	description: "不就加了个工作台嘛",
+	dependencies: [
+		"22c85454"
+	],
+	tasks: [{
+		uid: "d6fb27f3",
+		type: "item",
+		items: [{
+			item: "projectex:arcane_tablet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

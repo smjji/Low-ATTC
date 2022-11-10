@@ -1,0 +1,20 @@
+{
+	x: -12.5d,
+	y: 3.5d,
+	dependencies: [
+		"ae18dec8"
+	],
+	tasks: [{
+		uid: "09a615bb",
+		type: "item",
+		items: [{
+			item: "fluidtank:blocktank3"
+		}]
+	}],
+	rewards: [{
+		uid: "301edace",
+		type: "item",
+		item: "chisel:blockiron 1 4",
+		count: 2
+	}]
+}

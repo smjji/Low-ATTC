@@ -1,0 +1,15 @@
+{
+	title: "在炉子里洗澡！",
+	icon: "tconstruct:edible 1 3",
+	x: -4.5d,
+	y: -3.0d,
+	description: "别呀！去烧腐肉！",
+	dependencies: [
+		"355cef1d"
+	],
+	tasks: [{
+		uid: "a3284879",
+		type: "fluid",
+		fluid: "blood"
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "匠魂需要它！",
+	x: -10.5d,
+	y: -1.5d,
+	description: "起源！",
+	dependencies: [
+		"2c88b677"
+	],
+	tasks: [{
+		uid: "f97f651f",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}],
+		count: 4L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "4de2ad06",
+		type: "item",
+		item: "minecraft:clay_ball",
+		count: 64
+	}]
+}

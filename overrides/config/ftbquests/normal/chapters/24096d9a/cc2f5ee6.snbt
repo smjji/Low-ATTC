@@ -1,0 +1,16 @@
+{
+	title: "这不是太阳",
+	x: -15.5d,
+	y: -0.5d,
+	shape: "gear",
+	tasks: [{
+		uid: "809d681f",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

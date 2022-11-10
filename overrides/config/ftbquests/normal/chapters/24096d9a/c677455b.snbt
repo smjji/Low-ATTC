@@ -1,0 +1,25 @@
+{
+	title: "工匠基础",
+	x: -9.0d,
+	y: -1.5d,
+	description: "你必须用！",
+	dependencies: [
+		"097a63df"
+	],
+	tasks: [{
+		uid: "8ccbd283",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials"
+		}],
+		count: 4L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "755ce95e",
+		type: "item",
+		title: "你要它干嘛？",
+		auto: "enabled",
+		item: "minecraft:bedrock"
+	}]
+}

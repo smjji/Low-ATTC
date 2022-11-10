@@ -1,0 +1,20 @@
+{
+	title: "太冷门了！",
+	x: -10.5d,
+	y: -3.0d,
+	dependencies: [
+		"c677455b"
+	],
+	tasks: [{
+		uid: "e863e371",
+		type: "item",
+		items: [{
+			item: "tconstruct:tinker_tank_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "a2cd85f2",
+		type: "item",
+		item: "avaritia:singularity 1 10"
+	}]
+}

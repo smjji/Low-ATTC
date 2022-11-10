@@ -1,0 +1,23 @@
+{
+	title: "简简单单",
+	x: 0.0d,
+	y: 3.5d,
+	shape: "square",
+	description: "真的吗",
+	dependencies: [
+		"d3fb64b1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ab0673f6",
+		type: "kill",
+		icon: "twilightforest:trophy 1 6",
+		entity: "twilightforest:minoshroom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "511ec248",
+		type: "item",
+		item: "twilightforest:meef_stroganoff"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -17.0d,
+	y: 3.5d,
+	dependencies: [
+		"587431bb",
+		"36b7234c"
+	],
+	tasks: [{
+		uid: "39379598",
+		type: "item",
+		items: [{
+			item: "hooked:hook"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a6f678bc",
+		type: "item",
+		item: "hooked:hook"
+	}]
+}

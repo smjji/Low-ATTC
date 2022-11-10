@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: -0.5d,
+	dependencies: [
+		"0cbe98c3"
+	],
+	tasks: [{
+		uid: "ebed1e7a",
+		type: "item",
+		items: [{
+			item: "torcherino:blockcompressedtorcherino"
+		}]
+	}],
+	rewards: [{
+		uid: "510b5c94",
+		type: "item",
+		item: "torcherino:blockcompressedtorcherino"
+	}]
+}

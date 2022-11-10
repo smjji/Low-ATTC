@@ -1,0 +1,69 @@
+{
+	title: "还要交羊毛吗？",
+	x: 1.5d,
+	y: 3.5d,
+	shape: "square",
+	description: "''那肯定不''",
+	dependencies: [
+		"f776997e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2fa4725f",
+		type: "kill",
+		icon: "twilightforest:trophy 1 8",
+		entity: "twilightforest:quest_ram",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3fc2a2cf",
+		type: "item",
+		item: "twilightforest:twilight_scepter"
+	},
+	{
+		uid: "b09421c4",
+		type: "item",
+		item: "twilightforest:lifedrain_scepter"
+	},
+	{
+		uid: "b697e589",
+		type: "item",
+		item: "twilightforest:zombie_scepter"
+	},
+	{
+		uid: "7dd3194e",
+		type: "item",
+		item: "twilightforest:shield_scepter"
+	},
+	{
+		uid: "5cbbdfa5",
+		type: "item",
+		item: {
+			id: "twilightforest:mazebreaker_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 4s,
+					id: 32s
+				},
+				{
+					lvl: 3s,
+					id: 34s
+				},
+				{
+					lvl: 2s,
+					id: 35s
+				}]
+			}
+		}
+	},
+	{
+		uid: "0197905b",
+		type: "item",
+		item: "twilightforest:magic_map_empty"
+	},
+	{
+		uid: "07816176",
+		type: "item",
+		item: "twilightforest:maze_map_empty"
+	}]
+}

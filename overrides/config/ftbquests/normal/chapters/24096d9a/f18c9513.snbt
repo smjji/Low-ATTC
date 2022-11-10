@@ -1,0 +1,42 @@
+{
+	title: "暗物质工具！",
+	icon: {
+		id: "projecte:item.pe_dm_pick",
+		tag: {}
+	},
+	x: -17.0d,
+	y: -5.5d,
+	dependencies: [
+		"ab328522"
+	],
+	tasks: [{
+		uid: "583244b3",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_dm_sword",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "017aa7bb",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_dm_pick",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "09498c45",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_dm_axe",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
