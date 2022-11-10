@@ -1,1 +1,21 @@
+#0 = Get Chinese quotes from https://v1.hitokoto.cn
+#1 = Pick from the list below
+#2 = Random of the two above
+mode: 1
 
+#Title list
+title:
+  - " 欢迎游玩 ATTC 4 20w11a ！  —— smjji  "
+
+#The value of %prefix%, %version% for Minecraft version
+#If there are multiple items a random one will be used
+prefix:
+  - "Minecraft %version%"
+
+#Variables:
+#%prefix% as defined above
+#%title% - random title
+#%date% - Date formatted as dateformat below
+format: "%prefix%  |  %title%  |  %date%"
+
+dateformat: "MM-dd HH:mm"
